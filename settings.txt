@@ -1,0 +1,3 @@
+Welcome to Space Cleanup: The Console Game!
+You're piloting a spaceship tasked with cleaning up space junk.
+Avoid asteroids and manage your resources wisely!
